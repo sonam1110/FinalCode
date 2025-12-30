@@ -1,0 +1,11 @@
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\bin\Debug\net8.0\ERPSystem_Environment.deps.json
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\bin\Debug\net8.0\ERPSystem_Environment.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\bin\Debug\net8.0\ERPSystem_Environment.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.AssemblyInfoInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.AssemblyInfo.cs
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.csproj.CoreCompileInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\refint\ERPSystem_Environment.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ERPSystem_Environment.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Environment\obj\Debug\net8.0\ref\ERPSystem_Environment.dll

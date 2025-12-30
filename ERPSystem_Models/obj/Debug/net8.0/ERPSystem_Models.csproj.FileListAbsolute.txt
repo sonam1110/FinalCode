@@ -1,0 +1,12 @@
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.csproj.AssemblyReference.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.AssemblyInfoInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.AssemblyInfo.cs
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.csproj.CoreCompileInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\bin\Debug\net8.0\ERPSystem_Models.deps.json
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\bin\Debug\net8.0\ERPSystem_Models.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\bin\Debug\net8.0\ERPSystem_Models.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\refint\ERPSystem_Models.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ERPSystem_Models.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Models\obj\Debug\net8.0\ref\ERPSystem_Models.dll

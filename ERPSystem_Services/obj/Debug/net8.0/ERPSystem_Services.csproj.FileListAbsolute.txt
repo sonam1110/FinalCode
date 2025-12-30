@@ -1,0 +1,15 @@
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\bin\Debug\net8.0\ERPSystem_Services.deps.json
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\bin\Debug\net8.0\ERPSystem_Services.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\bin\Debug\net8.0\ERPSystem_Services.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\bin\Debug\net8.0\ERPSystem_Models.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\bin\Debug\net8.0\ERPSystem_Models.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.csproj.AssemblyReference.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.AssemblyInfoInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.AssemblyInfo.cs
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.csproj.CoreCompileInputs.cache
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSyste.98F8CB33.Up2Date
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\refint\ERPSystem_Services.dll
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ERPSystem_Services.pdb
+D:\CoreMvcProject\ERPSystemProject\ERPSystem_Services\obj\Debug\net8.0\ref\ERPSystem_Services.dll
